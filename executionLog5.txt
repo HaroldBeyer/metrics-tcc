@@ -1,4 +1,0 @@
-Executing for 5 minutes
-Time: 16:06:43 GMT-0300 (GMT-03:00)
-Time ending 18:41:47 GMT-0300 (GMT-03:00)
-Done!
