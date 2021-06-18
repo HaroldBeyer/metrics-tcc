@@ -1,0 +1,8 @@
+Executing for alternate times
+Time: 20:18:27 GMT-0300 (GMT-03:00)
+Index: 1
+Index: 0
+Index: 1
+Index: 0
+Index: 1
+Index: 0
